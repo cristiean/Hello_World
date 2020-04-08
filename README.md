@@ -1,2 +1,40 @@
-# hello_world
-Hello World is a web/dev/cs bootcamp for teenagers
+# Hello, world!
+*Hello, world!* is a web/dev/cs bootcamp for teenagers. The end goal is for the participants to:
+1) have their own web pages live on the Web through github.io and
+2) learn Python, being able to write basic programs, run them from the command line and store them on GitHub
+
+The participants who, by the end of this bootcamp, are able to do the above shall be aided in keeping on learning and developing their skills.
+
+## Target audience
+- Teenagers 13-19
+- Literate
+- Able to use a computer (i.e. browse the web)
+- Knows basic English
+
+## Possible locations
+- Lunca Cetățuii school, Lunca Cetățuii, Ciurea, Iași, Romania
+
+## Curriculum
+- What is the Web? Basic understanding of HTTP
+- Personal site with HTML
+- Keeping software on the Web with GitHub
+- Hello, world! with Python, in the terminal
+- Solving problems with Python
+- Extra, dream about the future: You can now go and have a go at solving problems like self-driving (vision) with ML, literally making money with crypto, etc.
+
+## Facilitators
+- STEM degree student, graduate or professional
+- Has a basic understanding of the Web (i.e. HTTP, HTML)
+- Has a basic understanding of computer science (e.g. variables, basic control flow)
+- Has a basic understanding of software development tools (e.g. git, use the command line)
+
+## Other people involved (potentially)
+- Event organisers
+- Sponsors (e.g. business owners around the area, mayor, etc.)
+- Word-spreaders (e.g. mayor, school director, priest)
+
+## Budget and funding
+- Would potentially need laptops for some attendees
+- Optional lunch/snacks could be provided
+- Talented attendees could potentially receive a form of support at the end (a computer, books, etc.)
+- Needed funds could be secured from participation fee (undesirable), sponsorship (local council, businesses, individuals), or both.
