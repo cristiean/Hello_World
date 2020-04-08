@@ -1,5 +1,7 @@
 # Hello, world!
-*Hello, world!* is a bootcamp that aims to get teenagers from low socio-economic areas on the Web. The end goal is for the participants to:
+*Hello, world!* is a bootcamp that aims to get teenagers from low socio-economic areas on the Web.
+
+The end goal is for the participants to:
 1) have their own sites live on the Web with github.io
 2) be able to write basic Python programs, run them from the command line and store them on GitHub
 3) be excited about the Web and building things with software
