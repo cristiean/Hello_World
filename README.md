@@ -7,24 +7,24 @@
 The participants who, by the end of this bootcamp, have achieved the above shall be supported in keeping on learning and developing their skills.
 
 ## Target audience
-- Teenagers 13-19
-- Literate
-- Able to use a computer (i.e. browse the web)
-- Knows basic English
+Teenagers 13-19 that:
+- are literate
+- are able to use a computer (i.e. browse the web)
+- know basic English
 
 ## Possible locations
 - Lunca Cetățuii school, Lunca Cetățuii, Ciurea, Iași, Romania
 
 ## Curriculum
 - What is the Web? Basic understanding of HTTP
-- Personal site with HTML
+- Wrigint a personal site with HTML
 - Keeping software on the Web with GitHub
 - Hello, world! with Python, in the terminal
-- Solving problems with Python
-- Extra, dream about the future: You can now go and have a go at solving problems like self-driving (vision) with ML, literally making money with crypto, etc.
+- Solving simple problems with Python (also, maybe an introduction to HackerRank, ProjectEuler, etc.)
+- Finale: dream about the future. Solving problems like self-driving with Computer Vision, literally making money with Crypto currencies, or training an artificial pet (think Boston Dynamic's Spot).
 
 ## Facilitators
-- STEM degree student, graduate or professional
+- STEM student, graduate or professional
 - Has a basic understanding of the Web (i.e. HTTP, HTML)
 - Has a basic understanding of computer science (e.g. variables, basic control flow)
 - Has a basic understanding of software development tools (e.g. git, use the command line)
