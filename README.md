@@ -38,4 +38,4 @@ Teenagers 13-19 that:
 - Would potentially need laptops for some attendees
 - Optional lunch/snacks could be provided
 - Talented attendees could potentially receive a form of support at the end (a computer, books, etc.)
-- Needed funds could be secured from participation fee (undesirable), sponsorship (local council, businesses, individuals), or both.
+- Funds, if needed, could be secured from participation fees (undesirable), sponsorship (local council, businesses, individuals), or both.
