@@ -17,7 +17,7 @@ Teenagers 13-19 that:
 
 ## Curriculum
 - What is the Web? Basic understanding of HTTP
-- Wrigint a personal site with HTML
+- Writing a website with HTML
 - Keeping software on the Web with GitHub
 - Hello, world! with Python, in the terminal
 - Solving simple problems with Python (also, maybe an introduction to HackerRank, ProjectEuler, etc.)
