@@ -31,7 +31,7 @@ Teenagers 13-19 that:
 
 ## Other people involved
 - Event organisers
-- Word-spreaders (e.g. mayor, school director, priest, businesses around the area)
+- Word-spreaders (e.g. mayor, school director, priest, local businesses)
 
 ## Budget and funding
 - Would potentially need laptops for some attendees
