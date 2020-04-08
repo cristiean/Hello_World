@@ -29,10 +29,9 @@ Teenagers 13-19 that:
 - Has a basic understanding of computer science (e.g. variables, basic control flow)
 - Has a basic understanding of software development tools (e.g. git, use the command line)
 
-## Other people involved (potentially)
+## Other people involved
 - Event organisers
-- Sponsors (e.g. business owners around the area, mayor, etc.)
-- Word-spreaders (e.g. mayor, school director, priest)
+- Word-spreaders (e.g. mayor, school director, priest, businesses around the area)
 
 ## Budget and funding
 - Would potentially need laptops for some attendees
