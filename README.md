@@ -1,15 +1,15 @@
 # Hello, world!
-> *Hello, world!* is a bootcamp that gets teenagers from low socio-economic backgrounds to the Web, as creators.
+> *Hello, world!* is an event that gets teenagers from low socio-economic backgrounds on the Web, as creators.
 
 The end goal is for the participants to:
-1) have their own sites live on the Web with github.io
+1) have their own sites live on the Web (with github.io?)
 2) be able to write basic Python programs, run them from the command line and store them on GitHub
-3) be excited about the Web and building things with software
+3) get excited about the Web and building things with software
 
 The participants who, by the end of this bootcamp, have achieved the above shall be supported in keeping on learning and developing their skills.
 
 ## Target audience
-Teenagers 13-19 that:
+Teenagers 13-18 that:
 - are literate
 - are able to use a computer (i.e. browse the web)
 - know basic English
@@ -18,25 +18,26 @@ Teenagers 13-19 that:
 - Lunca Cetățuii school, Lunca Cetățuii, Ciurea, Iași, Romania
 
 ## Curriculum
-- What is the Web? Basic understanding of HTTP
-- Writing a website with HTML
-- Keeping software on the Web with GitHub
-- Hello, world! with Python, in the terminal
-- Solving simple problems with Python (also, maybe an introduction to HackerRank, ProjectEuler, etc.)
-- Finale: dream about the future. Solving problems like self-driving with Computer Vision, literally making money with Crypto currencies, or training an artificial pet (think Boston Dynamic's Spot).
+- what is the Web?
+- basic understanding of HTTP
+- writing a website with HTML
+- storing software on the Web (with GitHub?)
+- "hello, world!" with Python, in the terminal
+- solving simple problems with Python (also, maybe an introduction to e.g. ProjectEuler)
+- finale: motivate why programming is necessary and will become even more so. 
 
-## Facilitators
+## Facilitator persona
 - STEM student, graduate or professional
-- Has a basic understanding of the Web (i.e. HTTP, HTML)
-- Has a basic understanding of computer science (e.g. variables, basic control flow)
-- Has a basic understanding of software development tools (e.g. git, use the command line)
+- has a basic understanding of the Web (i.e. HTTP, HTML)
+- has a basic understanding of computer science (e.g. variables, basic control flow)
+- has a basic understanding of software development tools (e.g. git, use the command line)
 
 ## Other people involved
-- Event organisers
-- Word-spreaders (e.g. mayor, school director, priest, local businesses)
+- event organisers
+- word-spreaders (e.g. mayor, school director, priest, local businesses)
 
 ## Budget and funding
-- Would potentially need laptops for some attendees
-- Optional lunch/snacks could be provided
-- Talented attendees could potentially receive a form of support at the end (a computer, books, etc.)
-- Funds, if needed, could be secured by means of sponsorship from the local council, businesses or individuals.
+- would potentially need laptops for some attendees
+- optional lunch/snacks could be provided
+- talented attendees could potentially receive a form of support at the end (a computer, books, etc.)
+- funds, if needed, could be secured by means of sponsorship from the local council, businesses or individuals.
